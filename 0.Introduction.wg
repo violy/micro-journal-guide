@@ -1,0 +1,163 @@
+WordGrinder dumpfile v3: this is a text file; diff me!
+.addons.autosave.enabled: true
+.addons.autosave.lastsaved: 1744103374
+.addons.autosave.pattern: "%F.autosave.%t.wg"
+.addons.autosave.period: 1
+.addons.htmlexport.bold_off: "</b>"
+.addons.htmlexport.bold_on: "<b>"
+.addons.htmlexport.italic_off: "</i>"
+.addons.htmlexport.italic_on: "<i>"
+.addons.htmlexport.underline_off: "</u>"
+.addons.htmlexport.underline_on: "<u>"
+.addons.pagecount.enabled: false
+.addons.pagecount.wordsperpage: 250
+.addons.scrapbook.document: "Scrapbook"
+.addons.scrapbook.pattern: "Item from '%N' at %T:"
+.addons.scrapbook.timestamp: true
+.addons.smartquotes.doublequotes: false
+.addons.smartquotes.leftdouble: "“"
+.addons.smartquotes.leftsingle: "‘"
+.addons.smartquotes.notinraw: true
+.addons.smartquotes.rightdouble: "”"
+.addons.smartquotes.rightsingle: "’"
+.addons.smartquotes.singlequotes: false
+.addons.spellchecker.enabled: false
+.addons.spellchecker.usesystemdictionary: true
+.addons.spellchecker.useuserdictionary: true
+.clipboard.co: 1
+.clipboard.cp: 1
+.clipboard.cw: 1
+.clipboard.margin: 0
+.clipboard.viewmode: 1
+.clipboard.wordcount: 15
+.documents.1.co: 2.0
+.documents.1.cp: 2
+.documents.1.cw: 2
+.documents.1.margin: 0
+.documents.1.name: "main"
+.documents.1.sticky_selection: true
+.documents.1.viewmode: 1
+.documents.1.wordcount: 851
+.fileformat: 8.0
+.menu.accelerators.BACKSPACE: "ZDPC"
+.menu.accelerators.DELETE: "ZDNC"
+.menu.accelerators.DOWN: "ZD"
+.menu.accelerators.EC: "^C"
+.menu.accelerators.ECadd: "^M"
+.menu.accelerators.ECfind: "^L"
+.menu.accelerators.EF: "^F"
+.menu.accelerators.EG: "^G"
+.menu.accelerators.EN: "^K"
+.menu.accelerators.END: "ZE"
+.menu.accelerators.EP: "^V"
+.menu.accelerators.ER: "^R"
+.menu.accelerators.ET: "^X"
+.menu.accelerators.Eredo: "^Y"
+.menu.accelerators.Eundo: "^Z"
+.menu.accelerators.FQ: "^Q"
+.menu.accelerators.FS: "^S"
+.menu.accelerators.HOME: "ZH"
+.menu.accelerators.LEFT: "ZL"
+.menu.accelerators.PGDN: "ZPGDN"
+.menu.accelerators.PGUP: "ZPGUP"
+.menu.accelerators.RIGHT: "ZR"
+.menu.accelerators.SB: "^B"
+.menu.accelerators.SDOWN: "ZSD"
+.menu.accelerators.SEND: "ZSE"
+.menu.accelerators.SHOME: "ZSH"
+.menu.accelerators.SI: "^I"
+.menu.accelerators.SLEFT: "ZSL"
+.menu.accelerators.SO: "^O"
+.menu.accelerators.SP: "^P"
+.menu.accelerators.SPGDN: "ZSPGDN"
+.menu.accelerators.SPGUP: "ZSPGUP"
+.menu.accelerators.SRIGHT: "ZSR"
+.menu.accelerators.SU: "^U"
+.menu.accelerators.SUP: "ZSU"
+.menu.accelerators.S^DOWN: "ZSNP"
+.menu.accelerators.S^LEFT: "ZSWL"
+.menu.accelerators.S^PGDN: "ZSED"
+.menu.accelerators.S^PGUP: "ZSBD"
+.menu.accelerators.S^RIGHT: "ZSWR"
+.menu.accelerators.S^UP: "ZSPP"
+.menu.accelerators.UP: "ZU"
+.menu.accelerators.ZBD: "^PGUP"
+.menu.accelerators.ZD: "DOWN"
+.menu.accelerators.ZDNC: "DELETE"
+.menu.accelerators.ZDPC: "BACKSPACE"
+.menu.accelerators.ZDW: "^E"
+.menu.accelerators.ZE: "END"
+.menu.accelerators.ZED: "^PGDN"
+.menu.accelerators.ZH: "HOME"
+.menu.accelerators.ZL: "LEFT"
+.menu.accelerators.ZM: "^@"
+.menu.accelerators.ZNP: "^DOWN"
+.menu.accelerators.ZPGDN: "PGDN"
+.menu.accelerators.ZPGUP: "PGUP"
+.menu.accelerators.ZPP: "^UP"
+.menu.accelerators.ZR: "RIGHT"
+.menu.accelerators.ZSBD: "S^PGUP"
+.menu.accelerators.ZSD: "SDOWN"
+.menu.accelerators.ZSE: "SEND"
+.menu.accelerators.ZSED: "S^PGDN"
+.menu.accelerators.ZSH: "SHOME"
+.menu.accelerators.ZSL: "SLEFT"
+.menu.accelerators.ZSNP: "S^DOWN"
+.menu.accelerators.ZSPGDN: "SPGDN"
+.menu.accelerators.ZSPGUP: "SPGUP"
+.menu.accelerators.ZSPP: "S^UP"
+.menu.accelerators.ZSR: "SRIGHT"
+.menu.accelerators.ZSU: "SUP"
+.menu.accelerators.ZSW: "^W"
+.menu.accelerators.ZSWL: "S^LEFT"
+.menu.accelerators.ZSWR: "S^RIGHT"
+.menu.accelerators.ZU: "UP"
+.menu.accelerators.ZWL: "^LEFT"
+.menu.accelerators.ZWR: "^RIGHT"
+.menu.accelerators.^@: "ZM"
+.menu.accelerators.^B: "SB"
+.menu.accelerators.^C: "EC"
+.menu.accelerators.^DOWN: "ZNP"
+.menu.accelerators.^E: "ZDW"
+.menu.accelerators.^F: "EF"
+.menu.accelerators.^G: "EG"
+.menu.accelerators.^I: "SI"
+.menu.accelerators.^K: "EN"
+.menu.accelerators.^L: "ECfind"
+.menu.accelerators.^LEFT: "ZWL"
+.menu.accelerators.^M: "ECadd"
+.menu.accelerators.^O: "SO"
+.menu.accelerators.^P: "SP"
+.menu.accelerators.^PGDN: "ZED"
+.menu.accelerators.^PGUP: "ZBD"
+.menu.accelerators.^Q: "FQ"
+.menu.accelerators.^R: "ER"
+.menu.accelerators.^RIGHT: "ZWR"
+.menu.accelerators.^S: "FS"
+.menu.accelerators.^U: "SU"
+.menu.accelerators.^UP: "ZPP"
+.menu.accelerators.^V: "EP"
+.menu.accelerators.^W: "ZSW"
+.menu.accelerators.^X: "ET"
+.menu.accelerators.^Y: "Eredo"
+.menu.accelerators.^Z: "Eundo"
+.name: "/home/microjournal/microjournal/documents/introduction.wg"
+.statusbar: true
+.current: 1
+#clipboard
+P  J'ai mis des gommettes sur les touches originale, pour qu'elles correspondent aux frappes !
+.
+#1
+P Chère Pénélope,
+P Pour tes sept ans, je t'avais offert un cahier, un premier journal. C'était alors un beau coffret de velour noir, qui contenait un Moleskine, grand format. À l'époque, tu apprenais tout juste à lire et écrire. Les enseignants disent décoder et encoder, pour lire et écrire, car les deux vont de paire. Tu as pu y consigner tes textes, tes dessins, au jour le jour, quand tu voulais, comme tu voulais, secrètement ou pas.
+P Pour tes dix ans, j'ai souhaité continuer cet exercice de journal, mais avec de nouveaux outils. Pas de meilleurs outils, soyons clair, mais d'autres outils. Le clavier, d'abord. L'ordinateur aussi. 
+P J'ai découvert le Micro Journal un peu par hasard, en flanant sur Mastodon, un réseau social du fediverse, l'internet libre, celui des hackers, des inventeurs, des bidouilleurs, des artistes, des activistes… Dès ce moment là, je l'ai trouvé magnifique, dans toutes ses couleurs, dans son design, sa conception, sa philosophie. Et donc qu'il serai pour toi. C'était plus (ou moins !) qu'un simple ordinateur, c'était un WriterDeck (mot anglais) — qui signifie, plus difficilement en français, planche de l'écrivain. Deck signifie donc planche mais aussi jeu (comme un jeu de carte) ou bien aussi le pont d'un navire… On peut aller loin. 
+P Tu pourras donc désormais utiliser le micro journal — l'informatique est souvent plus capricieux que le papier — pour apprendre à tappoter sur ce clavier exigeant. Si tu as une question ou un problême, demande moi. En le testant un peu, j'ai vu que le clavier s'arrêtait parfois sans explication, et j'ai du bidouiller pour le faire fonctionner.
+P C'est un appareil fragile. Il est petit, portable, mais il contient des circuits électroniques, des câbles, une batterie, des soudures, qui le rendent sensible au monde réel. Il craint ainsi les chocs, la chaleur, l'humidité, les liquides. Sois prudente si tu veux éviter les courts-circuits. Un Kyu Lee, son créateur, un coréen qui vit en italie, a mis en garde les utilisateurs de son invention : faites attention.
+P Avant de l'emballer, je te l'ai préparé, disposé, testé, rodé, car tout n'était pas fourni clé en main, surtout pour une petite locutrice française de dix ans. J'ai eu des problèmes de faux contacts, qui arrêtaient le clavier tout net. Mais après une semaine d'essais réguliers, pendant des sessions d'écriture d'une demi-heure, finalement ça allait. Il remarchait !
+P J'ai profité de ces essais pour rédiger des guides que nous completerons ensemble, au fur et à mesure. Je te donnerai les liens pour les retrouver, depuis le Micro Journal, ou ailleurs sur le Web. 
+P Le premier apprentissage sera donc de tapoter avec ce clavier réduit, où de nombreux caractères spéciaux se cachent. L'habiteulle barre d'espace a été remplacée par deux simples touches avec des petits pots de confiture. Les chiffres sont invisibles, mais présents derrière la 1ere ligne : AZERTY se transforme ainsi en 123456 quand tu appuies sur la flèche bleu qui pointe vers le bas. Et celle qui pointe vers le haut t'offrira d'autres symboles accentués et de ponctuation. La touche livre en bas à droite, permet de vérrouiller les majuscules (Verr. Maj) et de pouvoir rapidement tout écrire EN CAPITALES ! En l'état, j'ai l'impression qu'il ne supporte pas bien les Emojis et les alphabets non latin.
+P Aussi, le clavier d'origine, celui pensé et designé par Un Kyu Lee, était en QWERTY, pour l'anglais. Pour toi, je l'ai fait modifié pour le passer en Français. J'ai finalement configuré le layout (la mise en place, pourrait-on dire en français) avec une variante Macintosh, car j'y suis moi-même habitué ! Au début, j'avais mis des gommettes sur les touches originales, pour qu'elles correspondent aux frappes ! Ensuite j'ai commandé un jeu complet de touches (keycaps) ISO FR, beige, rose, violet, avec des glaces mignonnes. J'ai aussi changé le comportement de la touche du coin en bas à droite, la rose avec une glace : elle permet de faire le verrouillage des capitales (Verr. Maj. ou Caps Lock), et t'évitera d'appuyer sur la touche Majuscule (Shift en anglais) quand tu as besoin de tout écrire en capitales !  
+P Un Kyu Lee a imaginé un système pour partager tes fichiers depuis le Micro Journal en wifi, si tu souhaites les partager, les éditer, les publier. Ce système, c'est le petit script share.sh, qu'on pourra renommer, en français, en partage.sh, pour que ça soit plus explicite pour toi. En lançant ce script Shell (.sh) ça démarre un petit serveur web, qui est accessible en wifi, localement (dans la maison) depuis un autre ordinateur ou un téléphone, à travers les ondes radio, sur un navigateur Web. 
+P Toujours à propos de wifi, si jamais tu déplaces ton micro journal dans une autre maison, tu pourras te connecter au wifi. Pour cela, il faudra renseigner le mot de passe dans l'interface raspi-config. Le script config.sh le lance pour toi, lançant apparaître une interface blanche, bleu et rouge. Le wifi permet d'obtenir une connection à Internet. La connection à internet n'est évidemment pas requise pour écrire avec le micro journal. Bien au contraire, cela pourrait constituer une distraction…
+.
